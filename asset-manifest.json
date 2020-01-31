@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/richardarc18/static/css/main.d1b05096.chunk.css",
+    "main.js": "/richardarc18/static/js/main.68dfa2e0.chunk.js",
+    "main.js.map": "/richardarc18/static/js/main.68dfa2e0.chunk.js.map",
+    "runtime-main.js": "/richardarc18/static/js/runtime-main.32afea1d.js",
+    "runtime-main.js.map": "/richardarc18/static/js/runtime-main.32afea1d.js.map",
+    "static/js/2.a49c80c2.chunk.js": "/richardarc18/static/js/2.a49c80c2.chunk.js",
+    "static/js/2.a49c80c2.chunk.js.map": "/richardarc18/static/js/2.a49c80c2.chunk.js.map",
+    "index.html": "/richardarc18/index.html",
+    "precache-manifest.691a4c87674ad454a0e114e117761140.js": "/richardarc18/precache-manifest.691a4c87674ad454a0e114e117761140.js",
+    "service-worker.js": "/richardarc18/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/richardarc18/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a49c80c2.chunk.js.LICENSE": "/richardarc18/static/js/2.a49c80c2.chunk.js.LICENSE",
+    "static/media/logo.svg": "/richardarc18/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32afea1d.js",
+    "static/js/2.a49c80c2.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.68dfa2e0.chunk.js"
+  ]
+}
