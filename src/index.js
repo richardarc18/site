@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-/*/
+//*/
 function tick(){
     const element = (
     <div>
@@ -32,7 +32,7 @@ ReactDOM.render(
 );
 //*/
 
-ReactDOM.render(<App />, document.getElementById('root'));
+//ReactDOM.render(<App />, document.getElementById('root'));
 
 // components can refer to other components
 
